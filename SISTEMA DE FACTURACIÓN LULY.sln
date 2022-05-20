@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final", "SISTEMA DE FACTURACIÓN LULY\Final.csproj", "{A568EA66-498E-4507-A73B-1598EE5FFFCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A568EA66-498E-4507-A73B-1598EE5FFFCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A568EA66-498E-4507-A73B-1598EE5FFFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A568EA66-498E-4507-A73B-1598EE5FFFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A568EA66-498E-4507-A73B-1598EE5FFFCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
